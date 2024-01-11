@@ -18,5 +18,5 @@ Ein Screenshot des laufenden Spiels:
 ## Startanleitung
 Zum *Starten* müssen folgende Schritte berücksichtigt werden:
 
-1. Öffnen der Datei `Main.java`
+1. Öffnen der Datei `Malefiz.java`
 2. Starten der der Funktion `main()`
